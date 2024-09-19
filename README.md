@@ -18,7 +18,7 @@ We'll be creating a personal blog site, similar to
 
 ![demo](https://curriculum-content.s3.amazonaws.com/phase-2/react-hooks-component-props-mini-project/demo.png)
 
-There is some starter code available in `src/App.jsx`. There is also
+There is some starter code available in `src/components/App.jsx`. There is also
 some data in `src/data/blog.js` that is being imported into `App` so you can pass it
 down to the components that need it.
 
