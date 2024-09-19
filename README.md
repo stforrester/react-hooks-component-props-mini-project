@@ -25,7 +25,7 @@ down to the components that need it.
 ## Deliverables
 
 Have a look at the components below and draw out a component hierarchy so you
-can determine how to pass data down as props.
+can determine how to pass data down as props. Add your components within the components directory.
 
 ### Header
 
