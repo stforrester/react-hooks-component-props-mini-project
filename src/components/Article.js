@@ -1,6 +1,7 @@
 import React from "react";
 
 function Article({
+    key,
     title,
     date="January 1, 1970",
     preview
@@ -11,7 +12,7 @@ function Article({
             <small>{date}</small>
             <p>{preview}</p>
         </article>
-    )
+    );
 }
 
 export default Article;
