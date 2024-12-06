@@ -8,4 +8,4 @@ function Header({ name }) {
     );
   }
   
-  export default App;
+  export default Header;
